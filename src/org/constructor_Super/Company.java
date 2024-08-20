@@ -7,7 +7,7 @@ System.out.println("Parent default constructor");
 
 	public Company(int id) {
 		
-		System.out.println("Parent in para constructor");
+		System.out.println("Parent in para ");
 
 	}
 }
